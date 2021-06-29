@@ -1,4 +1,4 @@
-# github-haskell
+# gitpod-haskell
 
 An example Gitpod configuration to run Haskell
 
